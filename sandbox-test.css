@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'alegreya_sansbold';
+    src: url('alegreya_sans_bold-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+h1 {
+
+
+    color: red;
+    font-family: 'alegreya_sansbold';
+
+
+}
